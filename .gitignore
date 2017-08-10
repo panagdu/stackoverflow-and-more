@@ -1,0 +1,14 @@
+# Compiled files
+*.class
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+#IntelliJ
+.idea
+*.iml
+
+# Folders
+target/
